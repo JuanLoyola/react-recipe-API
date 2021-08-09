@@ -32,6 +32,8 @@
 
 <img src="https://i.imgur.com/l61PzQi.png" alt="desktop preview">
 
+Project idea by <a href="https://www.youtube.com/channel/UCbaR6YYn5VGXrR5_f-4tNsA">The Indian Dev</a>
+
 
 ### `npm start`
 

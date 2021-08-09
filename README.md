@@ -1,7 +1,20 @@
-# Getting Started with Create React App
-
 # Getting Started with React 
-# Tools 
+
+## Objectives of this project:
+```
+* Investigate how to consume an API with React.
+* See different ways to use CSS and components
+* To continue learning about the React CLI framework.
+```
+
+## Results:
+```
+* The API consumption is not that different from Vue.js.
+* Style-components is horrible (I have to find out if I use it in the most optimal way)
+* Keep improving the component creation in React (I find it very different from Vue.js CLI )
+```
+
+## Tools:
 ```
 * HTML5
 * CSS3
